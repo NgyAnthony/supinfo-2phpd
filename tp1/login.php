@@ -16,7 +16,7 @@ function userDisconnect() {
 <html lang="fr">
     <body>
         <h1>Login page</h1>
-        <a href="/tp1/home.php.php">To Home</a>
+        <a href="/tp1/home.php">To Home</a>
 
         <?php if($alreadyConnected): ?>
             Vous êtes déjà connecté !
